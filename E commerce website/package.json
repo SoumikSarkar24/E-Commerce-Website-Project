@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce-website-project",
+  "version": "1.0.0",
+  "description": "E Commerce website project using HTML CSS JS and React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Soumik Sarkar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.22.0"
+  }
+}
